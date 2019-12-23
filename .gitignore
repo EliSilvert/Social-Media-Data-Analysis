@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
+
+# saved dictionaries
 term_to_senders_dict
 sender_to_term_count
+term_to_usage_rates
