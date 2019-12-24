@@ -4,3 +4,6 @@
 term_to_senders_dict
 sender_to_term_count
 term_to_usage_rates
+friend_to_words
+friend_to_term_usage_rates
+friend_to_influence_scores
