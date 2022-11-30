@@ -1,1 +1,2 @@
-# Grapevine
+# Grapevine: A social media data analysis project
+Through the 2018 General Data Regulation Protection (GDPR) and the 2018 California Consumer Privacy Act (CCPA), social media users now have the ability to download the raw data collected by the companies. Grapevine is a group of Brown students who came together over the common interest of deriving insight and value from our own disparate personal datafiles. The concept is to write analysis and visualization tools that can be downloaded as a EXE or DMG file and run on a social media datafile to pull out personalized insights. This is done all on one's local computer so that they do not need to share the data or the synthesized insights.
